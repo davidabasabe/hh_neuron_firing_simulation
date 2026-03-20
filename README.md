@@ -1,5 +1,8 @@
 # hh_neuron_firing_simulation
-Repository for an HH Neuron Model Simulation in Python. It utilises the Hodgkin-Huxley Neuron Model, which directly models the gating variables and dynamics of neurons and elicits firing behaviours through external potentials. It is part of a coding exercise from the Neuroprosthetics Course at TUM, for which reason a report is attached. In order to run the code, numpy and matplotlib are required.
+Repository for an HH Neuron Model Simulation in Python. It utilises the Hodgkin-Huxley Neuron Model, which directly models the gating variables and dynamics of neurons and elicits firing behaviours through external potentials. It is part of a coding exercise from the Neuroprosthetics Course at TUM, for which reason a report is attached. 
+
+## Dependencies
+In order to run the code, numpy, sympy, scipy.linalg, and matplotlib are required.
 
 ## Code Structure
 
